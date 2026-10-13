@@ -1,0 +1,488 @@
+Country Name,Country Code,Series Name,Series Code,2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024],2025 [YR2025]
+South Asia,SAS,"Lower secondary completion rate, total (% of relevant age group)",SE.SEC.CMPT.LO.ZS,63.1450805664062,65.5913009643555,67.9705276489258,70.3050079345703,72.404426574707,74.8281402587891,77.1982574462891,79.6203689575195,83.4901885986328,83.6813201904297,84.8095169067383,84.9607162475586,86.1927490234375,86.0785522460938,87.7918930053711,89.0237503051758,89.4951324462891,85.4501876831055,86.5518112182617,..
+South Asia,SAS,"Lower secondary completion rate, male (% of relevant age group)",SE.SEC.CMPT.LO.MA.ZS,66.7747116088867,68.5942306518555,70.1193618774414,71.9011611938477,73.6774826049805,75.4602127075195,76.527473449707,77.6023330688477,81.4988174438477,81.6583709716797,82.6168823242188,82.9023590087891,84.1619186401367,84.3384323120117,85.8699722290039,87.1466369628906,87.6726837158203,83.7580108642578,84.8940963745117,..
+South Asia,SAS,"Lower secondary completion rate, female (% of relevant age group)",SE.SEC.CMPT.LO.FE.ZS,59.2153701782227,62.3308715820312,65.6250610351562,68.5682220458984,71.0237884521484,74.1419296264648,77.9255065917969,81.8117980957031,85.6516494750977,85.8733596801758,87.1844635009766,87.1917724609375,88.4046020507812,87.9779510498047,89.8812026977539,91.0523071289062,91.4454116821289,87.2465515136719,88.3045425415039,..
+South Asia,SAS,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.UP.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.UP.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.PO.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Asia,SAS,Adjusted net national income per capita (constant 2015 US$),NY.ADJ.NNTY.PC.KD,855.693515960985,927.281298848505,927.244942695358,997.074165507029,1088.96745819561,1115.23142398177,1177.11217450428,1228.47276563175,1283.97132243403,1388.56947813667,1497.25646569244,1620.64074919703,1678.18456697451,1705.37580475108,1578.02971008024,1733.90208251891,..,..,..,..
+South Asia,SAS,Adjusted net national income per capita (current US$),NY.ADJ.NNTY.PC.CD,676.640573774134,850.676820186646,832.140332132865,931.444283540081,1132.55057279078,1217.81816128,1211.67606493486,1229.59469228644,1340.30819868049,1388.56947813667,1513.562916865,1731.17180198009,1756.73658004858,1843.02987240204,1723.39177270632,1986.80405080464,..,..,..,..
+South Asia,SAS,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.6,3.7,4.1,4.9,7.1,9.4,10.4,11.7,13,14.7,16.7,18.8,20.9,29.7,42.5,48,54.2,58.3,62.8,67.8
+South Asia,SAS,"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,24.3,34.7,42.7,48.2,52,56.3,..
+South Asia,SAS,"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,34.9,49.9,53.1,59.9,64.2,69.1,..
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 07/13/2026,,,,,,,,,,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,Other notes,License URL
+SE.SEC.CMPT.LO.ZS,CC BY-4.0,"Lower secondary completion rate, total (% of relevant age group)","Lower secondary education completion rate is measured as the gross intake ratio to the last grade of lower secondary education (general and pre-vocational). It is calculated as the number of new entrants in the last grade of lower secondary education, regardless of age, divided by the population at the entrance age for the last grade of lower secondary education.","Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of relevant age group,Annual,1970-2025,Weighted average,"Methodology: Lower secondary completion rate is calculated as the number of new entrants (enrollment minus repeaters) in the last grade of lower secondary education, regardless of age, divided by the population at the entrance age for the last grade of lower secondary education. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s): The indicator represents the influence of policies regarding entry and progress through the initial stages of primary or lower secondary education on the completion of the terminal grade at the respective level. The presumption is that students who enroll in the final grade for the first time will successfully finish that grade, thereby completing the designated level of education.","Lower secondary education serves as a critical platform for lifelong learning and human development, providing a foundation for further educational pursuits. In certain systems, it includes vocational education programs that equip individuals with skills pertinent to the workforce. SDG target 4.1 aims to ensure that all children complete free, equitable, and quality primary education.  This indicator is particularly important for policymakers who are committed to improving children's access to and participation in education. It measures the ability of the education system to enroll and retain students from the designated starting age through to the completion of all levels of lower secondary education.","The data do not account for students who drop out during the final year of Lower secondary education. Therefore, this rate serves as a proxy and should be considered an upper estimate of the actual Lower secondary completion rate.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+There are many reasons why the primary completion rate can exceed 100 percent. The numerator may include late entrants and overage children who have repeated one or more grades of primary education as well as children who entered school early, while the denominator is the number of children at the entrance age for the last grade of primary education.",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CMPT.LO.MA.ZS,CC BY-4.0,"Lower secondary completion rate, male (% of relevant age group)","Lower secondary education completion rate is measured as the gross intake ratio to the last grade of lower secondary education (general and pre-vocational). It is calculated as the number of new entrants in the last grade of lower secondary education, regardless of age, divided by the population at the entrance age for the last grade of lower secondary education.","Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of relevant age group,Annual,1970-2025,Weighted average,"Methodology: Lower secondary completion rate is calculated as the number of new entrants (enrollment minus repeaters) in the last grade of lower secondary education, regardless of age, divided by the population at the entrance age for the last grade of lower secondary education. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s): The indicator represents the influence of policies regarding entry and progress through the initial stages of primary or lower secondary education on the completion of the terminal grade at the respective level. The presumption is that students who enroll in the final grade for the first time will successfully finish that grade, thereby completing the designated level of education.","Lower secondary education serves as a critical platform for lifelong learning and human development, providing a foundation for further educational pursuits. In certain systems, it includes vocational education programs that equip individuals with skills pertinent to the workforce. SDG target 4.1 aims to ensure that all children complete free, equitable, and quality primary education.  This indicator is particularly important for policymakers who are committed to improving children's access to and participation in education. It measures the ability of the education system to enroll and retain students from the designated starting age through to the completion of all levels of lower secondary education.","The data do not account for students who drop out during the final year of Lower secondary education. Therefore, this rate serves as a proxy and should be considered an upper estimate of the actual Lower secondary completion rate.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+There are many reasons why the primary completion rate can exceed 100 percent. The numerator may include late entrants and overage children who have repeated one or more grades of primary education as well as children who entered school early, while the denominator is the number of children at the entrance age for the last grade of primary education.",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CMPT.LO.FE.ZS,CC BY-4.0,"Lower secondary completion rate, female (% of relevant age group)","Lower secondary education completion rate is measured as the gross intake ratio to the last grade of lower secondary education (general and pre-vocational). It is calculated as the number of new entrants in the last grade of lower secondary education, regardless of age, divided by the population at the entrance age for the last grade of lower secondary education.","Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of relevant age group,Annual,1970-2025,Weighted average,"Methodology: Lower secondary completion rate is calculated as the number of new entrants (enrollment minus repeaters) in the last grade of lower secondary education, regardless of age, divided by the population at the entrance age for the last grade of lower secondary education. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s): The indicator represents the influence of policies regarding entry and progress through the initial stages of primary or lower secondary education on the completion of the terminal grade at the respective level. The presumption is that students who enroll in the final grade for the first time will successfully finish that grade, thereby completing the designated level of education.","Lower secondary education serves as a critical platform for lifelong learning and human development, providing a foundation for further educational pursuits. In certain systems, it includes vocational education programs that equip individuals with skills pertinent to the workforce. SDG target 4.1 aims to ensure that all children complete free, equitable, and quality primary education.  This indicator is particularly important for policymakers who are committed to improving children's access to and participation in education. It measures the ability of the education system to enroll and retain students from the designated starting age through to the completion of all levels of lower secondary education.","The data do not account for students who drop out during the final year of Lower secondary education. Therefore, this rate serves as a proxy and should be considered an upper estimate of the actual Lower secondary completion rate.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+There are many reasons why the primary completion rate can exceed 100 percent. The numerator may include late entrants and overage children who have repeated one or more grades of primary education as well as children who entered school early, while the denominator is the number of children at the entrance age for the last grade of primary education.",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.UP.ZS,CC BY-4.0,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",The percentage of population ages 25 and over that attained or completed upper secondary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of total population ages 25+,Annual,1970-2025,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed upper secondary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relative high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and do not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.UP.MA.ZS,CC BY-4.0,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",The percentage of population ages 25 and over that attained or completed upper secondary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of male population ages 25+,Annual,1970-2025,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed upper secondary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relative high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and do not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.UP.FE.ZS,CC BY-4.0,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",The percentage of population ages 25 and over that attained or completed upper secondary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of female population ages 25+,Annual,1970-2025,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed upper secondary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relative high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and does not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.PO.ZS,CC BY-4.0,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",The percentage of population ages 25 and over that attained or completed post-secondary non-tertiary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of total population ages 25+,Annual,1970-2024,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed post-secondary non-tertiary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relative high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and does not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.PO.MA.ZS,CC BY-4.0,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",The percentage of population ages 25 and over that attained or completed post-secondary non-tertiary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of male population ages 25+,Annual,1970-2024,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed post-secondary non-tertiary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relative high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and do not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.PO.FE.ZS,CC BY-4.0,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",The percentage of population ages 25 and over that attained or completed post-secondary non-tertiary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of female population ages 25+,Annual,1970-2024,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed post-secondary non-tertiary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relatively high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and does not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.LO.ZS,CC BY-4.0,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",The percentage of population ages 25 and over that attained or completed lower secondary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of total population ages 25+,Annual,1970-2024,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed lower secondary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relative high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and do not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.LO.MA.ZS,CC BY-4.0,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",The percentage of population ages 25 and over that attained or completed lower secondary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of male population ages 25+,Annual,1970-2024,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed lower secondary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relatively high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and does not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+SE.SEC.CUAT.LO.FE.ZS,CC BY-4.0,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",The percentage of population ages 25 and over that attained or completed lower secondary education.,"Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2026-03-19, date published: 2026-02",Education: Outcomes,WB_WDI,% of female population ages 25+,Annual,1970-2024,,"Methodology: It is calculated by dividing the number of population ages 25 and older who attained or completed lower secondary education by the total population of the same age group and multiplying by 100. The number 0 means zero or small enough that the number would round to zero. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data are collected by the UNESCO Institute for Statistics mainly from national population census, household survey, and labour force survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011.
+Statistical concept(s): Educational attainment indicators by education level, serve as a measure of the accumulated stock of knowledge, skills, and competencies that are typically associated with the completion of each level. These indicators not only shed light on the disparities in educational achievement among various demographic groups, thereby offering insights into the present and past efficacy of the education system in ensuring equitable access to education, but they also mirror the structure and performance of the education system itself. Furthermore, such indicators are instrumental in guiding policy decisions aimed at expanding educational opportunities.","A relatively high concentration of the adult population in a given level of education reflects the capacity of the educational system in the corresponding level of education. Educational attainment is closely related to the skills and competencies of a country's population, and could be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital.","Caution is required when using this indicator for cross-country comparison, since the countries do not always classify degrees and qualifications at the same International Standard Classification of Education (ISCED) levels, even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and study courses cannot be easily classified according to ISCED. This indicator only measures educational attainment in terms of level of education attained, i.e. years of schooling, and does not necessarily reveal the quality of the education (learning achievement and other impacts).",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+NY.ADJ.NNTY.PC.KD,CC BY-4.0,Adjusted net national income per capita (constant 2015 US$),"Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion. The core indicator has been divided by the general population to achieve a per capita estimate. This indicator is expressed in constant prices, meaning the series has been adjusted to account for price changes over time. The reference year for this adjustment is 2015.  This indicator is expressed in United States dollars.","Staff estimates, World Bank (WB);
+The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium, World Bank (WB)",Economic Policy & Debt: National accounts: Adjusted savings & income,WB_WDI,constant 2015 US$,Annual,1970-2021,Weighted average,"Methodology: National accounts are compiled in accordance with international standards: System of National Accounts, 2008 or 1993 versions. Specific information on how countries compile their national accounts can be found on the IMF website: https://dsbb.imf.org/ Per capita estimates are divided by the total population.
+Statistical concept(s): The conceptual elements of the SNA (System of National Accounts) measure what takes place in the economy, between which agents, and for what purpose. At the heart of the SNA is the production of goods and services. These may be used for consumption in the period to which the accounts relate or may be accumulated for use in a later period. In simple terms, the amount of value added generated by production represents GDP. The income corresponding to GDP is distributed to the various agents or groups of agents as income and it is the process of distributing and redistributing income that allows one agent to consume the goods and services produced by another agent or to acquire goods and services for later consumption. The way in which the SNA captures this pattern of economic flows is to identify the activities concerned by recognizing the institutional units in the economy and by specifying the structure of accounts capturing the transactions relevant to one stage or another of the process by which goods and services are produced and ultimately consumed.","This indicator is related to the national accounts, which are critical for understanding and managing a country's economy. They provide a framework for the analysis of economic performance. National accounts are the basis for estimating the Gross Domestic Product (GDP) and Gross National Income (GNI), which are the most widely used indicator of economic performance. They are essential for government policymakers, providing the data needed to design and assess fiscal and monetary policies; and are also used by businesses and investors to assess the economic climate and make investment decisions. NAS enable comparison between economies, which is crucial for international trade, investment decisions, and economic competitiveness. More specifically, this indicator is related to national accounts aggregates. Gross Domestic Product (GDP), Gross National Income (GNI), and other aggregates provide a snapshot of the size and health of an economy by measuring the total economic activity within a country. They can thus be used by policymakers to design and implement economic policies, as they reflect the overall economic performance and can indicate the need for intervention in certain areas. Aggregates also allow for comparisons between different economies, which can be useful for trade negotiations, investment decisions, and economic benchmarking. By examining aggregates over time, economists and analysts can identify trends, cycles, and potential areas of concern within an economy, and investors can use national accounts aggregates to assess the potential risks and returns of investing in a particular country. Overall, national accounts aggregates are fundamental tools for economic analysis, policy formulation, and decision-making at both the national and international levels.","Adjusted net national income differs from the adjustments made in the calculation of adjusted net savings, by not accounting for investments in human capital or the damages from pollution. Thus, adjusted net national income remains within the boundaries of the United Nations System of National Accounts (SNA).
+
+
+
+
+
+
+
+
+
+The SNA includes non-produced natural assets (such as land, mineral resources, and forests) within the asset boundary when they are under the effective control of institutional units. The calculation of adjusted net national income, which accounts for net forest, energy, and mineral depletion, as well as consumption of fixed capital, thus remains within the SNA boundaries. This point is critical because it allows for comparisons across GDP, GNI, and adjusted net national income; such comparisons reveal the impact of natural resource depletion, which is otherwise ignored by the popular economic indicators.",,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+NY.ADJ.NNTY.PC.CD,CC BY-4.0,Adjusted net national income per capita (current US$),"Adjusted net national income is GNI minus consumption of fixed capital and natural resources depletion. This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time.  This indicator is expressed in United States dollars.","Staff estimates, World Bank (WB);
+The Changing Wealth of Nations: Measuring Sustainable Development in the New Millennium, World Bank (WB)",Economic Policy & Debt: National accounts: Adjusted savings & income,WB_WDI,current US$,Annual,1970-2021,Weighted average,"Methodology: National accounts are compiled in accordance with international standards: System of National Accounts, 2008 or 1993 versions. Specific information on how countries compile their national accounts can be found on the IMF website: https://dsbb.imf.org/ Per capita estimates are divided by the total population.
+Statistical concept(s): The conceptual elements of the SNA (System of National Accounts) measure what takes place in the economy, between which agents, and for what purpose. At the heart of the SNA is the production of goods and services. These may be used for consumption in the period to which the accounts relate or may be accumulated for use in a later period. In simple terms, the amount of value added generated by production represents GDP. The income corresponding to GDP is distributed to the various agents or groups of agents as income and it is the process of distributing and redistributing income that allows one agent to consume the goods and services produced by another agent or to acquire goods and services for later consumption. The way in which the SNA captures this pattern of economic flows is to identify the activities concerned by recognizing the institutional units in the economy and by specifying the structure of accounts capturing the transactions relevant to one stage or another of the process by which goods and services are produced and ultimately consumed.","This indicator is related to the national accounts, which are critical for understanding and managing a country's economy. They provide a framework for the analysis of economic performance. National accounts are the basis for estimating the Gross Domestic Product (GDP) and Gross National Income (GNI), which are the most widely used indicator of economic performance. They are essential for government policymakers, providing the data needed to design and assess fiscal and monetary policies; and are also used by businesses and investors to assess the economic climate and make investment decisions. NAS enable comparison between economies, which is crucial for international trade, investment decisions, and economic competitiveness. More specifically, this indicator is related to national accounts aggregates. Gross Domestic Product (GDP), Gross National Income (GNI), and other aggregates provide a snapshot of the size and health of an economy by measuring the total economic activity within a country. They can thus be used by policymakers to design and implement economic policies, as they reflect the overall economic performance and can indicate the need for intervention in certain areas. Aggregates also allow for comparisons between different economies, which can be useful for trade negotiations, investment decisions, and economic benchmarking. By examining aggregates over time, economists and analysts can identify trends, cycles, and potential areas of concern within an economy, and investors can use national accounts aggregates to assess the potential risks and returns of investing in a particular country. Overall, national accounts aggregates are fundamental tools for economic analysis, policy formulation, and decision-making at both the national and international levels.",,,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+IT.NET.USER.ZS,CC BY-4.0,Individuals using the Internet (% of population),"Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.","World Telecommunication/ICT Indicators Database, International Telecommunication Union (ITU), uri: https://datahub.itu.int/",Infrastructure: Communications,WB_WDI,% of population,Annual,1990-2025,Weighted average,"Methodology: The Internet is a world-wide public computer network. It provides access to a number of communication services including the World Wide Web and carries email, news, entertainment and data files, irrespective of the device used (not assumed to be only via a computer - it may also be by mobile phone, PDA, games machine, digital TV etc.). Access can be via a fixed or mobile network. For additional/latest information on sources and country notes, please also refer to: https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx
+Statistical concept(s): The number of in-scope individuals using the Internet is calculated by aggregating the weighted responses. The proportion of individuals using the Internet is expressed as a percentage and is calculated by dividing the total number of in-scope individuals using the Internet by the total number of in-scope individuals, and then multiplying the result by 100.","The digital and information revolution has changed the way the world learns, communicates, does business, and treats illnesses. New information and communications technologies (ICT) offer vast opportunities for progress in all walks of life in all countries - opportunities for economic growth, improved health, better service delivery, learning through distance education, and social and cultural advances.
+
+Today's smartphones and tablets have computer power equivalent to that of yesterday's computers and provide a similar range of functions. Device convergence is thus rendering the conventional definition obsolete.
+
+Comparable statistics on access, use, quality, and affordability of ICT are needed to formulate growth-enabling policies for the sector and to monitor and evaluate the sector's impact on development. Although basic access data are available for many countries, in most developing countries little is known about who uses ICT; what they are used for (school, work, business, research, government); and how they affect people and businesses. The global Partnership on Measuring ICT for Development is helping to set standards, harmonize information and communications technology statistics, and build statistical capacity in developing countries. However, despite significant improvements in the developing world, the gap between the ICT haves and have-nots remains.","Operators have traditionally been the main source of telecommunications data, so information on subscriptions has been widely available for most countries. This gives a general idea of access, but a more precise measure is the penetration rate - the share of households with access to telecommunications. During the past few years more information on information and communication technology use has become available from household and business surveys. Also important are data on actual use of telecommunications services. Ideally, statistics on telecommunications (and other information and communications technologies) should be compiled for all three measures: subscriptions, access, and use. The quality of data varies among reporting countries as a result of differences in regulations covering data provision and availability.
+
+Discrepancies may also arise in cases where the end of a fiscal year differs from that used by ITU, which is the end of December of every year. A number of countries have fiscal years that end in March or June of every year.",Please cite the International Telecommunication Union for third-party use of these data.,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+IT.NET.USER.FE.ZS,CC BY-4.0,"Individuals using the Internet, female (% of female population)","This indicator refers to female individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.","World Telecommunication/ICT Indicators Database, International Telecommunication Union (ITU)",Infrastructure: Communications,WB_WDI,Percent,Annual,2000-2025,Weighted average,"Methodology: The Internet is a world-wide public computer network. It provides access to a number of communication services including the World Wide Web and carries email, news, entertainment and data files, irrespective of the device used (not assumed to be only via a computer - it may also be by mobile phone, PDA, games machine, digital TV etc.). Access can be via a fixed or mobile network. For additional/latest information on sources and country notes, please also refer to: https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx","The digital and information revolution has changed the way the world learns, communicates, does business, and treats illnesses. New information and communications technologies (ICT) offer vast opportunities for progress in all walks of life in all countries - opportunities for economic growth, improved health, better service delivery, learning through distance education, and social and cultural advances.
+
+Today's smartphones and tablets have computer power equivalent to that of yesterday's computers and provide a similar range of functions. Device convergence is thus rendering the conventional definition obsolete.
+
+Comparable statistics on access, use, quality, and affordability of ICT are needed to formulate growth-enabling policies for the sector and to monitor and evaluate the sector's impact on development. Although basic access data are available for many countries, in most developing countries little is known about who uses ICT; what they are used for (school, work, business, research, government); and how they affect people and businesses. The global Partnership on Measuring ICT for Development is helping to set standards, harmonize information and communications technology statistics, and build statistical capacity in developing countries. However, despite significant improvements in the developing world, the gap between the ICT haves and have-nots remains.","Operators have traditionally been the main source of telecommunications data, so information on subscriptions has been widely available for most countries. This gives a general idea of access, but a more precise measure is the penetration rate - the share of households with access to telecommunications. During the past few years more information on information and communication technology use has become available from household and business surveys. Also important are data on actual use of telecommunications services. Ideally, statistics on telecommunications (and other information and communications technologies) should be compiled for all three measures: subscriptions, access, and use. The quality of data varies among reporting countries as a result of differences in regulations covering data provision and availability.
+
+Discrepancies may also arise in cases where the end of a fiscal year differs from that used by ITU, which is the end of December of every year. A number of countries have fiscal years that end in March or June of every year.",Please cite the International Telecommunication Union for third-party use of these data.,https://datacatalog.worldbank.org/int/public-licenses#cc-by
+IT.NET.USER.MA.ZS,CC BY-4.0,"Individuals using the Internet, male (% of male population)","This indicator refers to male individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.","World Telecommunication/ICT Indicators Database, International Telecommunication Union (ITU)",Infrastructure: Communications,WB_WDI,Percent,Annual,2000-2025,Weighted average,"Methodology: The Internet is a world-wide public computer network. It provides access to a number of communication services including the World Wide Web and carries email, news, entertainment and data files, irrespective of the device used (not assumed to be only via a computer - it may also be by mobile phone, PDA, games machine, digital TV etc.). Access can be via a fixed or mobile network. For additional/latest information on sources and country notes, please also refer to: https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx","The digital and information revolution has changed the way the world learns, communicates, does business, and treats illnesses. New information and communications technologies (ICT) offer vast opportunities for progress in all walks of life in all countries - opportunities for economic growth, improved health, better service delivery, learning through distance education, and social and cultural advances.
+
+Today's smartphones and tablets have computer power equivalent to that of yesterday's computers and provide a similar range of functions. Device convergence is thus rendering the conventional definition obsolete.
+
+Comparable statistics on access, use, quality, and affordability of ICT are needed to formulate growth-enabling policies for the sector and to monitor and evaluate the sector's impact on development. Although basic access data are available for many countries, in most developing countries little is known about who uses ICT; what they are used for (school, work, business, research, government); and how they affect people and businesses. The global Partnership on Measuring ICT for Development is helping to set standards, harmonize information and communications technology statistics, and build statistical capacity in developing countries. However, despite significant improvements in the developing world, the gap between the ICT haves and have-nots remains.","Operators have traditionally been the main source of telecommunications data, so information on subscriptions has been widely available for most countries. This gives a general idea of access, but a more precise measure is the penetration rate - the share of households with access to telecommunications. During the past few years more information on information and communication technology use has become available from household and business surveys. Also important are data on actual use of telecommunications services. Ideally, statistics on telecommunications (and other information and communications technologies) should be compiled for all three measures: subscriptions, access, and use. The quality of data varies among reporting countries as a result of differences in regulations covering data provision and availability.
+
+Discrepancies may also arise in cases where the end of a fiscal year differs from that used by ITU, which is the end of December of every year. A number of countries have fiscal years that end in March or June of every year.",Please cite the International Telecommunication Union for third-party use of these data.,https://datacatalog.worldbank.org/int/public-licenses#cc-by
